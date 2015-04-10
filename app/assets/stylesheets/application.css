@@ -1,3 +1,122 @@
+body, ol, ul {
+  font-family: 'Pacifico', cursive;
+  font-size:   25px;
+  line-height: 25px;
+  color: #4d1b7b;
+  background-color: #ffffff;
+
+}
+
+header {
+	/*display: inline;*/
+	text-align: center;
+	margin-top: 50px;
+}
+
+h1 {
+	font-size:   100px;
+}
+
+h4 {
+	margin-left: 50px;
+	margin-bottom: 0px;
+}
+
+/*div.main {
+	margin: auto;
+}*/
+
+div.form {
+	text-align: center;
+}
+
+div.main {
+	text-align: center;
+}
+
+span.title{
+	/*text-align: center;*/
+	padding: 10px;
+	margin-bottom: 150px;
+	
+}
+
+span.photo{
+	/*text-align: center;*/
+	padding: 10px;
+	margin-top: 500px;
+
+}
+
+p {
+	font-size:   15px;
+}
+
+ul li {
+	display: inline;
+}
+
+/*pre {
+  background-color: gray;
+  padding: 10px;
+  font-size: 11px;
+}*/
+
+a { color: #ef4f91;
+	text-decoration: none;
+}
+a:visited { color: #673888; }
+a:hover { color: #00aedb;}
+
+/*
+div.field, div.actions {
+  margin-bottom: 10px;
+}*/
+#notice {
+  color: #00aedb;
+}
+
+nav {
+	text-align: right;
+	margin-right: 100px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+/*.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  margin-bottom: 0px;
+  background-color: #c00;
+  color: #fff;
+}
+
+#error_explanation ul li {
+  font-size: 12px;
+  list-style: square;
+}
+
+
+*/
+*/
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
